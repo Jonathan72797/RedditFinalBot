@@ -14,7 +14,7 @@ user_agent = '<RedditBot:1.0>'
 
 
 
-# Keyword to monitor
+# Keyword to locate
 keyword = 'Trump'
 
 
