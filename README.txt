@@ -1,7 +1,7 @@
 *because of reddits new rate limit, you will have to wait between comments*
 
 
-First, import praw and time using "pip install praw" and "pip install time"
+First, import praw and time using "pip install praw" and "pip install time" in the terminal.
 
 In order to use this bot, you will need a client id, client secret, username and password to satisfy Reddit's API credentials.
 This can be found after creating an app at reddit.cim/prefs/aoos and your user name and password are the login credentials of your account.
