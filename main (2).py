@@ -52,7 +52,7 @@ def monitor_comments():
                 process_comment(comment)
         except Exception as e:
             print(f"An error occurred: {e}")
-            time.sleep(60)  # Wait for a minute before retrying
+            time.sleep(90)  # Wait for a minute before retrying
 
 
 
