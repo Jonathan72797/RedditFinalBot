@@ -18,3 +18,5 @@ Then you will use a try-except block which will post the actual comment followed
 then, you use process_comment to reply to the comment.
 
 Then, you will use a function to monitor the comments.
+
+There we go! We've made a reddit bot and i'm done with my final!
