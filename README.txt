@@ -17,3 +17,4 @@ then you will use a monitor_comments function which will search reddit for your 
 Then you will use a try-except block which will post the actual comment followed by utilizing async to put the bot in sleep for 60 seconds before posting another comment.
 then, you use process_comment to reply to the comment.
 
+Then, you will use a function to monitor the comments.
